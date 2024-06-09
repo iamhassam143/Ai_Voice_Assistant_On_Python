@@ -11,7 +11,7 @@
   - Install essential packages for running this AI Voice Assistant based on Python
   
 	```
-pip install pyttsx3, speech_recognition, wikipedia
+	pip install pyttsx3, speech_recognition, wikipedia
 	```
  - install more packages as needed.
 
