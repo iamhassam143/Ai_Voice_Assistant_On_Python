@@ -1,5 +1,23 @@
 # Ai_Voice_Assistant_On_Python
-Hiii this is Hassam Siddiqui here!!!
-if you want to run my code on your pc, then first download all libraries mentioned in my code.
-if you didn't download all libraries you will get errors.
-thank you.
+# Installation
+  - Clone this git repository in your system
+
+	```
+	git clone https://github.com/iamhassam143/Ai_Voice_Assistant_On_Python.git
+	```
+
+<br>
+
+  - Install essential packages for running this AI Voice Assistant based on Python
+  
+	```
+pip install pyttsx3, speech_recognition, wikipedia
+	```
+ - install more packages as needed.
+
+<br>
+
+# Contact
+ - For any queries related to project or the installation, please contact on below email.
+
+ 	hassamsiddiqui001@gmail.com
